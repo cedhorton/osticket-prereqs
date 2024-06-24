@@ -37,10 +37,11 @@ Installed/Enabled IIS in Windows with CGI and common HTTP features and IIS manag
 </p>
 <br />
 
-![image](https://github.com/cedhorton/osticket-prereqs/assets/173581553/493e366f-982a-406d-b513-ba30a7683d69)
+![image](https://github.com/cedhorton/osticket-prereqs/assets/173581553/bccb4bdd-b856-45d0-99f5-d7f85da838da)
+
   
 <p>
-Obtained public IP address from Azure virtual machine created for the osTicketing system to run on remote desktop.
+Downloaded and installed PHP Manager for IIS.
 </p>
 <br />
 
