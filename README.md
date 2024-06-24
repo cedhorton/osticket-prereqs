@@ -75,8 +75,8 @@ Clicked "Start" on windows, searched "IIS" and right clicked to run as administr
 ![image](https://github.com/cedhorton/osticket-prereqs/assets/173581553/5b4ae3c1-5e7c-435a-8f37-a78375bbbf89)
 
 <p>
-Download osTicket
-Extract and copy “upload” folder to c:\inetpub\wwwroot
+Downloaded osTicket
+Extracted and copied “upload” folder to c:\inetpub\wwwroot
 Within c:\inetpub\wwwroot, Renamed “upload” to “osTicket”
 
 </p>
