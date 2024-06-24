@@ -26,7 +26,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Open IIS as an Admin and register PHP from within IIS
 - Install osTicket v1.15.8
 - Assign Permissions: ost-config.php
-- Item 8
+- Install Heidi SQL Database Client
+- Item 9
+- Item 10
 
 <h2>Installation Steps</h2>
 
@@ -92,9 +94,8 @@ Assigned permissions in ost-config.php.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/cedhorton/osticket-prereqs/assets/173581553/7c6110f3-df53-4441-8727-65a5d486522b)
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
