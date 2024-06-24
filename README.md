@@ -112,6 +112,6 @@ osTicket fully setup and ready to use.
 
 
 <p>
-Logged in to osTicket as an admin.
+Logged into osTicket as an admin.
 </p>
 <br />
