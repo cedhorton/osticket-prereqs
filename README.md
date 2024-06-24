@@ -85,7 +85,7 @@ Within c:\inetpub\wwwroot, Renamed “upload” to “osTicket”
 ![image](https://github.com/cedhorton/osticket-prereqs/assets/173581553/f9f579e7-66ef-4325-87a5-bdb0dbec2c67)
 
 <p>
-Installed/Enabled IIS in Windows with CGI and common HTTP features and IIS managment console. 
+Assigned permissions in ost-config.php.  
   - Disable inheritance -> Remove All
   - New Permissions -> Everyone -> All
 
