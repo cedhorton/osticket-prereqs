@@ -27,9 +27,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-![image](https://github.com/cedhorton/osticket-prereqs/assets/173581553/5035f969-84e1-4e0f-a00c-a9fed506ecce)
+![image](https://github.com/cedhorton/osticket-prereqs/assets/173581553/aaf61bb8-50b8-4002-91be-66a9302eda51)
 
-Used Microsoft Azure to create a resource group for the osTicketing system.
+Installed/Enabled IIS in Windows with CGI and common HTTP features and IIS managment console. World Wide Web Services -> Application Development Features -> [X] CGI [X] Common HTTP Features 
+
 </p>
 <br />
 
