@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create the directory C:\PHP
 - Download and Install MySQL
 - Open IIS as an Admin and register PHP from within IIS
-- Item 6
+- Install osTicket v1.15.8
 - Item 7
 - Item 8
 
