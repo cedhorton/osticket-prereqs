@@ -33,11 +33,10 @@ Used Microsoft Azure to create a resource group for the osTicketing system.
 </p>
 <br />
 
+![image](https://github.com/cedhorton/osticket-prereqs/assets/173581553/493e366f-982a-406d-b513-ba30a7683d69)
+  
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Obtained public IP address from Azure virtual machine created for the osTicketing system to run on remote desktop.
 </p>
 <br />
 
