@@ -56,10 +56,10 @@ Downloaded PHP and created a PHP folder inside Windows (C:) and extracted the co
 ![image](https://github.com/cedhorton/osticket-prereqs/assets/173581553/8c1d7d8a-a3b1-4f27-a35e-2da0eade4b8f)
 
 <p>
-Downloaded and installed MySQL server and setup credentials for root. 
-  - Typical Setup -> 
-  - Launch Configuration Wizard (after install) -> 
-  - Standard Configuration -> (Set Password)
+Downloaded and installed MySQL server and setup credentials for root.
+  -Typical Setup ->
+  -Launch Configuration Wizard (after install) ->
+  -Standard Configuration -> (Set Password)
 
 </p>
 <br />
