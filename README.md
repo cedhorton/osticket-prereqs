@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Installed/Enabled IIS with CGI
 - Installed PHP Manager for IIS
-- Item 3
+- Create the directory C:\PHP
 - Item 4
 - Item 5
 
