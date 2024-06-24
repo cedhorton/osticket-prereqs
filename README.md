@@ -23,7 +23,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Installed PHP Manager for IIS
 - Create the directory C:\PHP
 - Download and Install MySQL
-- Item 5
+- Open IIS as an Admin and register PHP from within IIS
+- Item 6
+- Item 7
+- Item 8
 
 <h2>Installation Steps</h2>
 
