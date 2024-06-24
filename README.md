@@ -97,7 +97,7 @@ Assigned permissions in ost-config.php.
 ![image](https://github.com/cedhorton/osticket-prereqs/assets/173581553/7c6110f3-df53-4441-8727-65a5d486522b)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Downloaded and installed Heidi SQL. Created a new session. Connected to the session. Created a database called "osTicket"
 </p>
 <br />
 
