@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Assign Permissions: ost-config.php
 - Install Heidi SQL Database Client
 - osTicket Fully Setup and Installed
-- Item 10
+- osTicket Admin Dashboard
 
 <h2>Installation Steps</h2>
 
@@ -108,16 +108,10 @@ osTicket fully setup and ready to use.
 </p>
 <br />
 
-![image](https://github.com/cedhorton/osticket-prereqs/assets/173581553/7c6110f3-df53-4441-8727-65a5d486522b)
+![image](https://github.com/cedhorton/osticket-prereqs/assets/173581553/1c53c157-585e-467d-a30e-afd10751bc51)
+
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-![image](https://github.com/cedhorton/osticket-prereqs/assets/173581553/7c6110f3-df53-4441-8727-65a5d486522b)
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Logged in to osTicket as an admin.
 </p>
 <br />
