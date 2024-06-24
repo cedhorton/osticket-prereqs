@@ -27,10 +27,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
 ![image](https://github.com/cedhorton/osticket-prereqs/assets/173581553/5035f969-84e1-4e0f-a00c-a9fed506ecce)
 
-<p>
 Used Microsoft Azure to create a resource group for the osTicketing system.
 </p>
 <br />
