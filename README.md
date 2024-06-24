@@ -37,11 +37,12 @@ Installed/Enabled IIS in Windows with CGI and common HTTP features and IIS manag
 </p>
 <br />
 
-![image](https://github.com/cedhorton/osticket-prereqs/assets/173581553/bccb4bdd-b856-45d0-99f5-d7f85da838da)
+![image](https://github.com/cedhorton/osticket-prereqs/assets/173581553/68296aa1-1923-467f-aa77-afc450e72bc5)
+
 
   
 <p>
-Downloaded and installed PHP Manager for IIS.
+Downloaded and installed PHP Manager for IIS and the Rewrite Module.
 </p>
 <br />
 
