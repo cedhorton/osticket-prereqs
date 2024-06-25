@@ -60,9 +60,10 @@ Downloaded PHP and created a PHP folder inside Windows (C:) and extracted the co
 
 <p>
 Downloaded and installed MySQL server and setup credentials for root.
-  Typical Setup -> 
-  Launch Configuration Wizard (after install) -> 
-  Standard Configuration -> (Set Password)
+  
+  * Typical Setup -> 
+  * Launch Configuration Wizard (after install) -> 
+  * Standard Configuration -> (Set Password)
 
 </p>
 <br />
@@ -88,8 +89,9 @@ Within c:\inetpub\wwwroot, Renamed “upload” to “osTicket”
 
 <p>
 Assigned permissions in ost-config.php.  
-  - Disable inheritance -> Remove All
-  - New Permissions -> Everyone -> All
+  
+  * Disable inheritance -> Remove All
+  * New Permissions -> Everyone -> All
 
 </p>
 <br />
